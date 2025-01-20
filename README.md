@@ -1,2 +1,2 @@
-# alu_repo1
-Kayigire Ngabire Kethia
+## alu_repo1
+Kethia Kayigire
